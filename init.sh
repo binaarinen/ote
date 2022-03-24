@@ -7,4 +7,4 @@ create extension hstore;
 create extension postgis;
 EOSQL
 
-python3 scripts/changesetmd.py -d osmhistory -c -g -f changesets.osm.bz2 -p password -u dbuser
+python3 scripts/changesetmd.py -d osmhistory -c -g -f 995.osm -p password -u dbuser

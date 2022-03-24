@@ -12,7 +12,7 @@ RUN apt-get -y install libpq-dev
 RUN pip3 install psycopg2 bz2file pyyaml lxml
 
 
-COPY changesets.osm.bz2 /
+COPY 995.osm /
 COPY scripts/ /scripts
 RUN chmod +x /scripts/*
 #RUN python3 scripts/changesetmd.py -d osmhistory -c -g -f test.osm.bz2 -p password -u dbuser

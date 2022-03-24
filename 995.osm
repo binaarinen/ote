@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="replicate_changesets.rb" copyright="OpenStreetMap and contributors" attribution="https://www.openstreetmap.org/copyright" license="https://opendatacommons.org/licenses/odbl/1-0/">
+  <changeset id="61053176" created_at="2018-07-25T11:26:06Z" closed_at="2018-07-25T12:27:19Z" open="false" num_changes="8" user="thal1982" uid="175579" min_lat="53.1774224" max_lat="53.1855387" min_lon="9.7454046" max_lon="9.7929694" comments_count="0">
+    <tag k="build" v="2.5-37-ga38498b2"/>
+    <tag k="version" v="2.5"/>
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="comment" v="Buslinie 101 aktualisiert (ab dem 1.8.2018)."/>
+  </changeset>
+  <changeset id="61053211" created_at="2018-07-25T11:27:07Z" closed_at="2018-07-25T12:27:20Z" open="false" num_changes="2" user="berndberndbernd" uid="6617985" min_lat="52.539545" max_lat="52.5414462" min_lon="13.4512475" max_lon="13.4527235" comments_count="0">
+    <tag k="StreetComplete:quest_type" v="AddRoadSurface"/>
+    <tag k="source" v="survey"/>
+    <tag k="comment" v="Add road surfaces"/>
+    <tag k="created_by" v="StreetComplete 6.1"/>
+  </changeset>
+  <changeset id="61053213" created_at="2018-07-25T11:27:11Z" closed_at="2018-07-25T12:27:21Z" open="false" num_changes="2" user="berndberndbernd" uid="6617985" min_lat="52.539545" max_lat="52.5414462" min_lon="13.4512475" max_lon="13.4527235" comments_count="0">
+    <tag k="StreetComplete:quest_type" v="AddWayLit"/>
+    <tag k="source" v="survey"/>
+    <tag k="comment" v="Add whether way is lit"/>
+    <tag k="created_by" v="StreetComplete 6.1"/>
+  </changeset>
+  <changeset id="61053216" created_at="2018-07-25T11:27:17Z" closed_at="2018-07-25T12:27:19Z" open="false" num_changes="4" user="cucafera" uid="423520" min_lat="41.3858997" max_lat="41.3867031" min_lon="2.196646" max_lon="2.1975017" comments_count="0">
+    <tag k="locale" v="es_ES"/>
+    <tag k="imagery_used" v="OpenStreetMap (Standard)"/>
+    <tag k="source" v="Official website and survey"/>
+    <tag k="comment" v="Improve links and info"/>
+    <tag k="created_by" v="Vespucci 11.0.1.0"/>
+  </changeset>
+  <changeset id="61053227" created_at="2018-07-25T11:27:46Z" closed_at="2018-07-25T12:27:46Z" open="false" num_changes="1" user="Matthias Frank" uid="287306" min_lat="48.1530124" max_lat="48.1530124" min_lon="9.7542648" max_lon="9.7542648" comments_count="0">
+    <tag k="comment" v="Mittenweiler: Bushalt"/>
+    <tag k="version" v="2.5"/>
+    <tag k="created_by" v="Potlatch 2"/>
+    <tag k="build" v="2.5-37-ga38498b2"/>
+  </changeset>
+  <changeset id="61054494" created_at="2018-07-25T12:06:08Z" closed_at="2018-07-25T12:27:11Z" open="false" num_changes="4" user="whjms" uid="1216381" min_lat="43.5926666" max_lat="43.5944501" min_lon="-79.6882053" max_lon="-79.6860172" comments_count="0">
+    <tag k="created_by" v="StreetComplete 6.1"/>
+    <tag k="source" v="survey"/>
+    <tag k="comment" v="Add crossing type"/>
+    <tag k="StreetComplete:quest_type" v="AddCrossingType"/>
+  </changeset>
+  <changeset id="61054500" created_at="2018-07-25T12:06:21Z" closed_at="2018-07-25T12:27:11Z" open="false" num_changes="4" user="whjms" uid="1216381" min_lat="43.5926666" max_lat="43.5944501" min_lon="-79.6882053" max_lon="-79.6860172" comments_count="0">
+    <tag k="created_by" v="StreetComplete 6.1"/>
+    <tag k="source" v="survey"/>
+    <tag k="comment" v="Add tactile pavings on crosswalks"/>
+    <tag k="StreetComplete:quest_type" v="AddTactilePavingCrosswalk"/>
+  </changeset>
+  <changeset id="61055155" created_at="2018-07-25T12:23:58Z" closed_at="2018-07-25T12:27:39Z" open="false" num_changes="18" user="mrohret_aph" uid="8234142" min_lat="38.2180777" max_lat="38.2182381" min_lon="-85.7597861" max_lon="-85.7594636" comments_count="0">
+    <tag k="created_by" v="JOSM/1.5 (14026 en)"/>
+    <tag k="comment" v="Mappin for Indoor Accessibility App"/>
+  </changeset>
+  <changeset id="61055207" created_at="2018-07-25T12:24:53Z" closed_at="2018-07-25T12:27:55Z" open="false" num_changes="8000" user="Alan Trick" uid="1722904" min_lat="51.25" max_lat="51.5" min_lon="-123.5" max_lon="-123.0" comments_count="0">
+    <tag k="source" v="canvec;bing"/>
+    <tag k="created_by" v="JOSM/1.5 (14026 en)"/>
+    <tag k="comment" v="Canvec Import 092O06"/>
+  </changeset>
+  <changeset id="61055279" created_at="2018-07-25T12:26:16Z" closed_at="2018-07-25T12:27:23Z" open="false" num_changes="261" user="william bonya" uid="7682351" min_lat="-12.3531951" max_lat="-12.3507568" min_lon="30.0980686" max_lon="30.1024896" comments_count="0">
+    <tag k="source" v="Bing"/>
+    <tag k="created_by" v="JOSM/1.5 (13367 en)"/>
+    <tag k="comment" v="#hotosm-project-4906 Mapping by #RamaniHuria More info search OSM Wiki for #ZMMiniGrids"/>
+  </changeset>
+  <changeset id="61055284" created_at="2018-07-25T12:26:21Z" closed_at="2018-07-25T12:27:04Z" open="false" num_changes="2135" user="Gwantwa Mwakibete" uid="2780533" min_lat="-14.5411634" max_lat="-14.5355838" min_lon="24.2028063" max_lon="24.2085446" comments_count="0">
+    <tag k="source" v="Bing"/>
+    <tag k="created_by" v="JOSM/1.5 (14026 en)"/>
+    <tag k="comment" v="#hotosm-project-4900 Mapping by #RamaniHuria More info search OSM Wiki for #ZMMiniGrids"/>
+  </changeset>
+  <changeset id="61055310" created_at="2018-07-25T12:26:59Z" closed_at="2018-07-25T12:27:03Z" open="false" num_changes="9" user="Bascredvarcker" uid="2517121" min_lat="47.6357171" max_lat="47.7185884" min_lon="33.0977064" max_lon="33.2558679" comments_count="0">
+    <tag k="created_by" v="JOSM/1.5 (14026 ru)"/>
+    <tag k="comment" v="Широковский район, добавление новых данных."/>
+  </changeset>
+  <changeset id="61055311" created_at="2018-07-25T12:27:00Z" closed_at="2018-07-25T12:27:02Z" open="false" num_changes="4" user="ste" uid="16170" min_lat="47.428162" max_lat="47.4293741" min_lon="13.9046376" max_lon="13.9060606" comments_count="0">
+    <tag k="source" v="gps,geoimage.at"/>
+    <tag k="created_by" v="JOSM/1.5 (14026 en_GB)"/>
+    <tag k="comment" v="michaelerberg-pruggern:überführung moosheim"/>
+  </changeset>
+  <changeset id="61055312" created_at="2018-07-25T12:27:01Z" closed_at="2018-07-25T12:27:05Z" open="false" num_changes="1" user="mspray3" uid="8523955" min_lat="-12.3762727" max_lat="-12.3762075" min_lon="33.3410043" max_lon="33.3410522" comments_count="0">
+    <tag k="source" v="mSpray field data collection"/>
+    <tag k="created_by" v="JOSM/1.5 (13053 en)"/>
+    <tag k="comment" v="Updating building key values"/>
+  </changeset>
+  <changeset id="61055313" created_at="2018-07-25T12:27:03Z" closed_at="2018-07-25T12:27:05Z" open="false" num_changes="8" user="BCNorwich" uid="322785" min_lat="6.0387086" max_lat="6.0507708" min_lon="80.2420311" max_lon="80.2502185" comments_count="0">
+    <tag k="source" v="Bing, Esri, OSStreetview, OSM Inspector Geometry"/>
+    <tag k="created_by" v="JOSM/1.5 (14026 en)"/>
+    <tag k="comment" v="remove self intersection of way"/>
+  </changeset>
+  <changeset id="61055314" created_at="2018-07-25T12:27:04Z" closed_at="2018-07-25T12:27:05Z" open="false" num_changes="17" user="alexis160572" uid="409947" min_lat="43.3087309" max_lat="43.3099681" min_lon="40.4976221" max_lon="40.4991201" comments_count="0">
+    <tag k="changesets_count" v="76"/>
+    <tag k="imagery_used" v="Esri World Imagery (Clarity) Beta;OpenStreetMap GPS traces"/>
+    <tag k="locale" v="ru"/>
+    <tag k="host" v="https://www.openstreetmap.org/edit"/>
+    <tag k="created_by" v="iD 2.9.2"/>
+    <tag k="comment" v="1"/>
+  </changeset>
+  <changeset id="61055315" created_at="2018-07-25T12:27:05Z" closed_at="2018-07-25T12:27:07Z" open="false" num_changes="5" user="RobCrossTexas" uid="8596209" min_lat="31.2163751" max_lat="31.227695" min_lon="-98.38903" max_lon="-98.3864831" comments_count="0">
+    <tag k="ideditor:walkthrough_started" v="yes"/>
+    <tag k="changesets_count" v="98"/>
+    <tag k="imagery_used" v="Bing aerial imagery"/>
+    <tag k="locale" v="en-US"/>
+    <tag k="host" v="https://www.openstreetmap.org/edit"/>
+    <tag k="created_by" v="iD 2.9.2"/>
+    <tag k="comment" v="As of about 5 years ago, all County Roads in Lampasas County, Texas have a 4-digit indentifier."/>
+  </changeset>
+  <changeset id="61055316" created_at="2018-07-25T12:27:08Z" closed_at="2018-07-25T12:27:33Z" open="false" num_changes="600" user="Privatemajory" uid="3107789" min_lat="-18.824656" max_lat="-18.7361063" min_lon="47.3972281" max_lon="47.5007005" comments_count="0">
+    <tag k="source" v="DigitalGlobe"/>
+    <tag k="created_by" v="JOSM/1.5 (14026 fr)"/>
+    <tag k="comment" v="+ highways"/>
+  </changeset>
+  <changeset id="61055317" created_at="2018-07-25T12:27:08Z" closed_at="2018-07-25T12:27:08Z" open="false" num_changes="3" user="DieterBort" uid="8464739" min_lat="49.2881706" max_lat="49.2884269" min_lon="9.648639" max_lon="9.6489855" comments_count="0">
+    <tag k="changesets_count" v="662"/>
+    <tag k="imagery_used" v="Maps4BW (LGL-BW, www.lgl-bw.de)"/>
+    <tag k="locale" v="de"/>
+    <tag k="host" v="https://www.openstreetmap.org/edit"/>
+    <tag k="created_by" v="iD 2.9.2"/>
+    <tag k="comment" v="Straße hinzugefügt"/>
+  </changeset>
+  <changeset id="61055318" created_at="2018-07-25T12:27:13Z" closed_at="2018-07-25T12:27:14Z" open="false" num_changes="1" user="A67-A67" uid="553736" min_lat="52.0347838" max_lat="52.0351181" min_lon="4.6246311" max_lon="4.6251665" comments_count="0">
+    <tag k="created_by" v="JOSM/1.5 (14026 nl)"/>
+    <tag k="comment" v="Los stukje tertiare weg in woonstraat opgelost"/>
+  </changeset>
+  <changeset id="61055319" created_at="2018-07-25T12:27:17Z" closed_at="2018-07-25T12:27:18Z" open="false" num_changes="34" user="Jaria" uid="7949960" min_lat="13.4381437" max_lat="13.4440086" min_lon="-15.5376862" max_lon="-15.532277" comments_count="0">
+    <tag k="review_requested" v="yes"/>
+    <tag k="changesets_count" v="395"/>
+    <tag k="hashtags" v="#hotosm-project-4701"/>
+    <tag k="imagery_used" v="Bing aerial imagery"/>
+    <tag k="locale" v="en-US"/>
+    <tag k="host" v="https://www.openstreetmap.org/edit"/>
+    <tag k="created_by" v="iD 2.9.2"/>
+    <tag k="comment" v="#hotosm-project-4701"/>
+  </changeset>
+  <changeset id="61055320" created_at="2018-07-25T12:27:19Z" closed_at="2018-07-25T12:27:21Z" open="false" num_changes="30" user="djcomic" uid="7725453" min_lat="5.5437121" max_lat="5.5490124" min_lon="10.1470128" max_lon="10.156053" comments_count="0">
+    <tag k="source" v="Bing"/>
+    <tag k="created_by" v="JOSM/1.5 (13996 en)"/>
+    <tag k="comment" v="Added and aligned residential and unclassified highways."/>
+  </changeset>
+  <changeset id="61055321" created_at="2018-07-25T12:27:21Z" closed_at="2018-07-25T12:27:23Z" open="false" num_changes="45" user="Tauntaun" uid="8076764" min_lat="5.4782292" max_lat="5.489588" min_lon="10.1754615" max_lon="10.1839024" comments_count="0">
+    <tag k="source" v="Bing"/>
+    <tag k="created_by" v="JOSM/1.5 (13996 en)"/>
+    <tag k="comment" v="Created a residential ways"/>
+  </changeset>
+  <changeset id="61055322" created_at="2018-07-25T12:27:21Z" closed_at="2018-07-25T12:27:22Z" open="false" num_changes="6" user="adeljamali" uid="8348661" min_lat="29.5568085" max_lat="29.5579981" min_lon="52.6535661" max_lon="52.6598632" comments_count="0">
+    <tag k="changesets_count" v="813"/>
+    <tag k="imagery_used" v="Mapbox Satellite"/>
+    <tag k="locale" v="en-US"/>
+    <tag k="host" v="https://www.openstreetmap.org/edit"/>
+    <tag k="created_by" v="iD 2.9.2"/>
+    <tag k="comment" v="نامگذاری خیابان"/>
+  </changeset>
+  <changeset id="61055323" created_at="2018-07-25T12:27:22Z" closed_at="2018-07-25T12:27:25Z" open="false" num_changes="65" user="pani_rani" uid="7629872" min_lat="5.5245819" max_lat="5.5363542" min_lon="10.3460473" max_lon="10.3527498" comments_count="0">
+    <tag k="source" v="Bing"/>
+    <tag k="created_by" v="JOSM/1.5 (13996 en)"/>
+    <tag k="comment" v="Added and aligned roads and changed classification in this area"/>
+  </changeset>
+  <changeset id="61055324" created_at="2018-07-25T12:27:23Z" closed_at="2018-07-25T12:27:35Z" open="false" num_changes="334" user="Krishna Dutta" uid="8481979" min_lat="-2.6552984" max_lat="-2.6535276" min_lon="32.6416536" max_lon="32.6441149" comments_count="0">
+    <tag k="review_requested" v="yes"/>
+    <tag k="hashtags" v="#hotosm-project-4358;#TanzaniaDevelopmentTrust"/>
+    <tag k="imagery_used" v="Custom (https://{switch:a,b,c,d}.tiles.mapbox.com/v4/digitalglobe.0a8e44ba/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoiZGlnaXRhbGdsb2JlIiwiYSI6ImNqZGFrZ3pjczNpaHYycXFyMGo0djY3N2IifQ.90uebT4-ow1uqZKTUrf6RQ);data file"/>
+    <tag k="locale" v="en-US"/>
+    <tag k="host" v="https://www.openstreetmap.org/edit"/>
+    <tag k="created_by" v="iD 2.9.2"/>
+    <tag k="comment" v="#hotosm-project-4358 #TanzaniaDevelopmentTrust"/>
+  </changeset>
+  <changeset id="61055325" created_at="2018-07-25T12:27:23Z" closed_at="2018-07-25T12:27:23Z" open="false" num_changes="1" user="_phiphou_" uid="570635" min_lat="48.9405551" max_lat="48.9405551" min_lon="2.449202" max_lon="2.449202" comments_count="0">
+    <tag k="changesets_count" v="22297"/>
+    <tag k="imagery_used" v="BDOrtho IGN"/>
+    <tag k="locale" v="fr"/>
+    <tag k="host" v="https://www.openstreetmap.org/edit"/>
+    <tag k="created_by" v="iD 2.9.2"/>
+    <tag k="comment" v="ozoir"/>
+  </changeset>
+  <changeset id="61055326" created_at="2018-07-25T12:27:24Z" closed_at="2018-07-25T12:27:30Z" open="false" num_changes="247" user="AWFCloin" uid="5236234" min_lat="-0.1480762" max_lat="-0.1031333" min_lon="35.5035021" max_lon="35.5442137" comments_count="0">
+    <tag k="changesets_count" v="2250"/>
+    <tag k="imagery_used" v="Bing aerial imagery"/>
+    <tag k="locale" v="nl"/>
+    <tag k="host" v="https://www.openstreetmap.org/edit"/>
+    <tag k="created_by" v="iD 2.9.2"/>
+    <tag k="comment" v="2572"/>
+  </changeset>
+  <changeset id="61055327" created_at="2018-07-25T12:27:24Z" closed_at="2018-07-25T12:27:25Z" open="false" num_changes="1" user="chachafish" uid="2237750" min_lat="19.7050926" max_lat="19.7053047" min_lon="-101.1815934" max_lon="-101.1809175" comments_count="0">
+    <tag k="changesets_count" v="133262"/>
+    <tag k="imagery_used" v="Bing aerial imagery"/>
+    <tag k="locale" v="en-US"/>
+    <tag k="host" v="https://www.openstreetmap.org/edit"/>
+    <tag k="created_by" v="iD 2.9.2"/>
+    <tag k="comment" v="Morelia adiciones"/>
+  </changeset>
+  <changeset id="61055328" created_at="2018-07-25T12:27:26Z" closed_at="2018-07-25T12:27:31Z" open="false" num_changes="53" user="rrissiek" uid="17889" min_lat="52.0177564" max_lat="52.063507" min_lon="8.973464" max_lon="9.0624253" comments_count="0">
+    <tag k="source" v="Bing"/>
+    <tag k="created_by" v="JOSM/1.5 (11427 Debian de)"/>
+    <tag k="comment" v="Humfeld Ergänzungen"/>
+  </changeset>
+  <changeset id="61055329" created_at="2018-07-25T12:27:29Z" closed_at="2018-07-25T12:27:29Z" open="false" num_changes="12" user="Sal73x" uid="1293386" min_lat="36.9187246" max_lat="36.9192603" min_lon="14.7303386" max_lon="14.7309067" comments_count="0">
+    <tag k="changesets_count" v="41161"/>
+    <tag k="imagery_used" v="DigitalGlobe Standard Imagery"/>
+    <tag k="locale" v="en-GB"/>
+    <tag k="host" v="https://www.openstreetmap.org/edit"/>
+    <tag k="created_by" v="iD 2.9.2"/>
+    <tag k="comment" v="minor fix"/>
+  </changeset>
+  <changeset id="61055330" created_at="2018-07-25T12:27:30Z" closed_at="2018-07-25T12:27:37Z" open="false" num_changes="33" user="gviken" uid="3182086" min_lat="55.7125507" max_lat="55.7526318" min_lon="21.117569" max_lon="21.1313876" comments_count="0">
+    <tag k="changesets_count" v="1387"/>
+    <tag k="imagery_used" v="Lithuania - NŽT ORT10LT"/>
+    <tag k="locale" v="lt"/>
+    <tag k="host" v="https://www.openstreetmap.org/edit"/>
+    <tag k="created_by" v="iD 2.9.2"/>
+    <tag k="comment" v="eismas, perėjos"/>
+  </changeset>
+  <changeset id="61055331" created_at="2018-07-25T12:27:32Z" closed_at="2018-07-25T12:27:41Z" open="false" num_changes="29" user="mawutor" uid="2198791" min_lat="5.630009" max_lat="5.6303426" min_lon="-0.2301262" max_lon="-0.2295595" comments_count="0">
+    <tag k="source" v="Bing"/>
+    <tag k="created_by" v="JOSM/1.5 (14026 en)"/>
+    <tag k="comment" v="Update Ghana Map"/>
+  </changeset>
+  <changeset id="61055332" created_at="2018-07-25T12:27:35Z" closed_at="2018-07-25T12:27:37Z" open="false" num_changes="31" user="isnogoud" uid="78608" min_lat="47.1892941" max_lat="47.1895914" min_lon="-1.5009034" max_lon="-1.5006232" comments_count="0">
+    <tag k="source" v="cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2017"/>
+    <tag k="created_by" v="JOSM/1.5 (14026 fr)"/>
+    <tag k="comment" v="Saint-Sébastien-sur-Loire - MAJ bâti selon cadasstre"/>
+  </changeset>
+  <changeset id="61055333" created_at="2018-07-25T12:27:38Z" closed_at="2018-07-25T12:27:42Z" open="false" num_changes="62" user="trekB001" uid="7725461" min_lat="12.1921709" max_lat="12.2084487" min_lon="15.0538113" max_lon="15.0691197" comments_count="0">
+    <tag k="source" v="DG Standard Imagery"/>
+    <tag k="created_by" v="JOSM/1.5 (13996 en)"/>
+    <tag k="comment" v="Created missing residential roads and aligned them"/>
+  </changeset>
+  <changeset id="61055334" created_at="2018-07-25T12:27:38Z" closed_at="2018-07-25T12:27:39Z" open="false" num_changes="1" user="_phiphou_" uid="570635" min_lat="48.9406622" max_lat="48.9406622" min_lon="2.4493827" max_lon="2.4493827" comments_count="0">
+    <tag k="changesets_count" v="22298"/>
+    <tag k="imagery_used" v="BDOrtho IGN"/>
+    <tag k="locale" v="fr"/>
+    <tag k="host" v="https://www.openstreetmap.org/edit"/>
+    <tag k="created_by" v="iD 2.9.2"/>
+    <tag k="comment" v="ozoir"/>
+  </changeset>
+  <changeset id="61055335" created_at="2018-07-25T12:27:39Z" closed_at="2018-07-25T12:27:43Z" open="false" num_changes="70" user="IgorEliezer" uid="6833365" min_lat="-22.9390471" max_lat="-22.924352" min_lon="-47.8797121" max_lon="-47.8484861" comments_count="0">
+    <tag k="changesets_count" v="3540"/>
+    <tag k="imagery_used" v="Bing aerial imagery"/>
+    <tag k="source" v="aerial imagery"/>
+    <tag k="locale" v="pt-BR"/>
+    <tag k="host" v="https://www.openstreetmap.org/edit"/>
+    <tag k="created_by" v="iD 2.9.2"/>
+    <tag k="comment" v="Pantojas (Laras, Laranjal Paulista): vegetação, vias e hidrografia."/>
+  </changeset>
+  <changeset id="61055336" created_at="2018-07-25T12:27:40Z" closed_at="2018-07-25T12:27:41Z" open="false" num_changes="1" user="Susana Ampo" uid="403339" min_lat="-26.0319239" max_lat="-26.0319239" min_lon="-53.7690455" max_lon="-53.7690455" comments_count="0">
+    <tag k="changesets_count" v="3639"/>
+    <tag k="imagery_used" v="DigitalGlobe Standard Imagery"/>
+    <tag k="locale" v="es"/>
+    <tag k="host" v="https://www.openstreetmap.org/edit"/>
+    <tag k="created_by" v="iD 2.9.2"/>
+    <tag k="comment" v="Agrego Puertos en Misiones"/>
+  </changeset>
+  <changeset id="61055337" created_at="2018-07-25T12:27:41Z" closed_at="2018-07-25T12:27:41Z" open="false" num_changes="1" user="fietswim" uid="477921" min_lat="51.5590168" max_lat="51.5590168" min_lon="5.0912849" max_lon="5.0912849" comments_count="0">
+    <tag k="changesets_count" v="1855"/>
+    <tag k="imagery_used" v="PDOK aerial imagery Beeldmateriaal.nl 25cm latest"/>
+    <tag k="locale" v="nl"/>
+    <tag k="host" v="https://www.openstreetmap.org/edit"/>
+    <tag k="created_by" v="iD 2.9.2"/>
+    <tag k="comment" v="Mojo sushi en grill toegevoegd"/>
+  </changeset>
+  <changeset id="61055338" created_at="2018-07-25T12:27:44Z" closed_at="2018-07-25T12:27:45Z" open="false" num_changes="3" user="Jim005" uid="8360634" min_lat="44.5243921" max_lat="44.5248843" min_lon="6.399534" max_lon="6.4002603" comments_count="0">
+    <tag k="created_by" v="Go Map!! 1.5.3"/>
+    <tag k="imagery_used" v="BDOrtho IGN"/>
+    <tag k="comment" v="Mobilier lotissement"/>
+  </changeset>
+  <changeset id="61055339" created_at="2018-07-25T12:27:45Z" closed_at="2018-07-25T12:27:49Z" open="false" num_changes="61" user="Z00l00k" uid="1440132" min_lat="57.5131885" max_lat="57.5862404" min_lon="18.628059" max_lon="18.7085639" comments_count="0">
+    <tag k="changesets_count" v="24"/>
+    <tag k="imagery_used" v="Bing aerial imagery;data file"/>
+    <tag k="locale" v="en-US"/>
+    <tag k="host" v="https://www.openstreetmap.org/edit"/>
+    <tag k="created_by" v="iD 2.9.2"/>
+    <tag k="comment" v="Small paths and forest roads added"/>
+  </changeset>
+  <changeset id="61055340" created_at="2018-07-25T12:27:46Z" closed_at="2018-07-25T12:27:47Z" open="false" num_changes="1" user="CESTU" uid="7575491" min_lat="20.1901293" max_lat="20.2366185" min_lon="78.9769636" max_lon="79.033543" comments_count="0">
+    <tag k="changesets_count" v="563"/>
+    <tag k="imagery_used" v="OpenStreetMap (Standard)"/>
+    <tag k="locale" v="en-US"/>
+    <tag k="host" v="https://www.openstreetmap.org/edit"/>
+    <tag k="created_by" v="iD 2.9.2"/>
+    <tag k="comment" v="ww"/>
+  </changeset>
+  <changeset id="61055341" created_at="2018-07-25T12:27:49Z" closed_at="2018-07-25T12:27:49Z" open="false" num_changes="1" user="_phiphou_" uid="570635" min_lat="48.9406622" max_lat="48.9406622" min_lon="2.4493827" max_lon="2.4493827" comments_count="0">
+    <tag k="changesets_count" v="22299"/>
+    <tag k="imagery_used" v="BDOrtho IGN"/>
+    <tag k="locale" v="fr"/>
+    <tag k="host" v="https://www.openstreetmap.org/edit"/>
+    <tag k="created_by" v="iD 2.9.2"/>
+    <tag k="comment" v="ozoir"/>
+  </changeset>
+  <changeset id="61055342" created_at="2018-07-25T12:27:49Z" open="true" num_changes="1" user="rabbitoor" uid="8599520" min_lat="48.214489" max_lat="48.214489" min_lon="12.6101648" max_lon="12.6101648" comments_count="0">
+    <tag k="created_by" v="OsmAnd~ 3.0.4"/>
+    <tag k="comment" v="Add Parkplatz"/>
+  </changeset>
+  <changeset id="61055343" created_at="2018-07-25T12:27:50Z" closed_at="2018-07-25T12:27:54Z" open="false" num_changes="90" user="sakya1" uid="7898946" min_lat="-12.2756126" max_lat="-12.2688197" min_lon="29.9502591" max_lon="29.9584757" comments_count="0">
+    <tag k="source" v="Bing"/>
+    <tag k="created_by" v="JOSM/1.5 (13500 en_GB)"/>
+    <tag k="comment" v="#hotosm-project-4906 Mapping by #RamaniHuria More info search OSM Wiki for #ZMMiniGrids"/>
+  </changeset>
+  <changeset id="61055344" created_at="2018-07-25T12:27:52Z" closed_at="2018-07-25T12:27:53Z" open="false" num_changes="3" user="adeljamali" uid="8348661" min_lat="29.5563517" max_lat="29.5621093" min_lon="52.6548287" max_lon="52.6574258" comments_count="0">
+    <tag k="changesets_count" v="814"/>
+    <tag k="imagery_used" v="Mapbox Satellite"/>
+    <tag k="locale" v="en-US"/>
+    <tag k="host" v="https://www.openstreetmap.org/edit"/>
+    <tag k="created_by" v="iD 2.9.2"/>
+    <tag k="comment" v="نامگذاری خیابان"/>
+  </changeset>
+  <changeset id="61055345" created_at="2018-07-25T12:27:53Z" closed_at="2018-07-25T12:27:54Z" open="false" num_changes="3" user="alkushi" uid="7334187" min_lat="21.5175268" max_lat="21.5193433" min_lon="39.2257402" max_lon="39.2275075" comments_count="0">
+    <tag k="changesets_count" v="2964"/>
+    <tag k="imagery_used" v="Bing aerial imagery"/>
+    <tag k="locale" v="en-US"/>
+    <tag k="host" v="https://www.openstreetmap.org/edit"/>
+    <tag k="created_by" v="iD 2.9.2"/>
+    <tag k="comment" v="."/>
+  </changeset>
+  <changeset id="61055346" created_at="2018-07-25T12:27:56Z" closed_at="2018-07-25T12:28:00Z" open="false" num_changes="1" user="mspray3" uid="8523955" min_lat="-14.5756181" max_lat="-14.5755286" min_lon="30.8432452" max_lon="30.8433429" comments_count="0">
+    <tag k="source" v="mSpray field data collection"/>
+    <tag k="created_by" v="JOSM/1.5 (13053 en)"/>
+    <tag k="comment" v="Updating building key values"/>
+  </changeset>
+  <changeset id="61055347" created_at="2018-07-25T12:27:56Z" open="true" num_changes="0" user="Alan Trick" uid="1722904" comments_count="0">
+    <tag k="source" v="canvec;bing"/>
+    <tag k="created_by" v="JOSM/1.5 (14026 en)"/>
+    <tag k="comment" v="Canvec Import 092O06"/>
+  </changeset>
+  <changeset id="61055348" created_at="2018-07-25T12:27:56Z" closed_at="2018-07-25T12:27:58Z" open="false" num_changes="20" user="masakun" uid="6626480" min_lat="35.6201223" max_lat="35.6227871" min_lon="138.463256" max_lon="138.4645543" comments_count="0">
+    <tag k="changesets_count" v="3135"/>
+    <tag k="imagery_used" v="Japan GSI ortho Imagery"/>
+    <tag k="locale" v="ja"/>
+    <tag k="host" v="https://www.openstreetmap.org/edit"/>
+    <tag k="created_by" v="iD 2.9.2"/>
+    <tag k="comment" v="セブン-イレブン"/>
+  </changeset>
+  <changeset id="61055349" created_at="2018-07-25T12:27:57Z" closed_at="2018-07-25T12:28:01Z" open="false" num_changes="122" user="Anton P" uid="4857632" min_lat="49.7217735" max_lat="49.7283207" min_lon="29.2118759" max_lon="29.2192195" comments_count="0">
+    <tag k="changesets_count" v="174"/>
+    <tag k="imagery_used" v="DigitalGlobe Standard Imagery"/>
+    <tag k="locale" v="uk"/>
+    <tag k="host" v="https://www.openstreetmap.org/edit"/>
+    <tag k="created_by" v="iD 2.9.2"/>
+    <tag k="comment" v="Додав відсутні об'єкти"/>
+  </changeset>
+  <changeset id="61055350" created_at="2018-07-25T12:27:58Z" closed_at="2018-07-25T12:28:00Z" open="false" num_changes="49" user="azsr" uid="5602859" min_lat="41.897589" max_lat="41.9029646" min_lon="-71.3557329" max_lon="-71.3509713" comments_count="0">
+    <tag k="created_by" v="Go Map!! 1.5.3"/>
+    <tag k="imagery_used" v="MapBox Aerial"/>
+    <tag k="comment" v="MA - South Attleboro: Adding parking and station infrastructure near South Attleboro MBTA station."/>
+  </changeset>
+  <changeset id="61055351" created_at="2018-07-25T12:27:59Z" open="true" num_changes="8" user="chris66" uid="43972" min_lat="51.7800036" max_lat="51.7843012" min_lon="7.6119817" max_lon="7.6145438" comments_count="0">
+    <tag k="source" v="survey,sat"/>
+    <tag k="created_by" v="JOSM/1.5 (14026 de)"/>
+    <tag k="comment" v="minor changes"/>
+  </changeset>
+  <changeset id="61055352" created_at="2018-07-25T12:27:59Z" closed_at="2018-07-25T12:28:00Z" open="false" num_changes="1" user="RobCrossTexas" uid="8596209" min_lat="31.185071" max_lat="31.219237" min_lon="-98.385645" max_lon="-98.318329" comments_count="0">
+    <tag k="ideditor:walkthrough_started" v="yes"/>
+    <tag k="changesets_count" v="99"/>
+    <tag k="imagery_used" v="Bing aerial imagery"/>
+    <tag k="locale" v="en-US"/>
+    <tag k="host" v="https://www.openstreetmap.org/edit"/>
+    <tag k="created_by" v="iD 2.9.2"/>
+    <tag k="comment" v="As of about 5 years ago, all County Roads in Lampasas County, Texas have a 4-digit indentifier."/>
+  </changeset>
+  <changeset id="61055353" created_at="2018-07-25T12:28:00Z" closed_at="2018-07-25T12:28:01Z" open="false" num_changes="2" user="_phiphou_" uid="570635" min_lat="48.9384627" max_lat="48.9405606" min_lon="2.4463405" max_lon="2.4601624" comments_count="0">
+    <tag k="changesets_count" v="22300"/>
+    <tag k="imagery_used" v="BDOrtho IGN"/>
+    <tag k="locale" v="fr"/>
+    <tag k="host" v="https://www.openstreetmap.org/edit"/>
+    <tag k="created_by" v="iD 2.9.2"/>
+    <tag k="comment" v="ozoir"/>
+  </changeset>
+</osm>
