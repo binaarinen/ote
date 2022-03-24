@@ -7,3 +7,5 @@ services:
             - 7000:5432
         volumes:
             - ./db:/var/lib/postgresql/data
+#        command: sh -c " chmod +x /usr/local/bin/two.sh; /usr/local/bin/two.sh"
+#        entrypoint: sh -c "echo $USER"
